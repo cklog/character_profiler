@@ -66,7 +66,7 @@ Then type:
 
 This command runs the program. You should be greeted by:
 
-````
+```
 Welcome to console:
 =>>
 ```
